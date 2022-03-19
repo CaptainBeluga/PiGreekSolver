@@ -23,9 +23,9 @@ Do not move "pigreco.py" it is a module that I created,if you move it the progra
 
     1. First import the module > import pigreco
 
-    2. Simple Commands > pigreco.formula1(20,50)
+    2. Simple Command > pigreco.formula1(20,50)
     
     3. Possible Commands > pigreco.formula1(20,50), pigreco.formula2(20,50) , pigreco.formula3(20,50)
 
-    3. Save it in a var and print
+    4. Save it in a var and print
 
